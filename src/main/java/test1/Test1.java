@@ -6,7 +6,7 @@ import org.jsoup.nodes.Document;
 /**
  * Created by luokai on 2017/7/29.
  *
- * jsonp 获取网站 baidu.com
+ * jsoup 获取网站 baidu.com
  */
 public class Test1 {
     public static void main(String[] args) {
