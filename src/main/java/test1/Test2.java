@@ -45,7 +45,6 @@ public class Test2 {
             Elements mainInfoElements = element.select(".title");
             String link = mainInfoElements.attr("href").trim();
             System.out.println("链接：" + parseUrl(link));
-            //TODO 处理一些绝对路径
 
             //处理标题
             Elements titleElements = element.select(".text-ellipsis");
